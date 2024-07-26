@@ -1,7 +1,8 @@
 *This is a sample application pulled from awesome-compose on github. It has been slightly edited to allow for an OTA deployment using a service like Miru.*
 
 ## 
-### Hi Shinkei! We want to build something you love!
+### 
+Hi Shinkei! We want to build somethiing you love!
 
 Project structure:
 ```
