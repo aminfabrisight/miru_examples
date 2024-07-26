@@ -2,8 +2,8 @@
 
 ## 
 ### 
+Hey Patrick!!!
 
-Hi Shinkei! We want to build something you love!
 
 Project structure:
 ```
